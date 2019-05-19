@@ -5,10 +5,11 @@
 #include <vector>
 
 #include "MaximumSubarrayProblem.h"
+#include "SearchingAlgorithms.h"
 
 int main()
 {
-	TestMaximumSubarrayProblem();
+	TestSearch();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
